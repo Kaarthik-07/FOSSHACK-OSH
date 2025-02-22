@@ -1,0 +1,9 @@
+[submodule "OSH-FRONTEND"]
+	path = OSH-FRONTEND
+	url = https://github.com/Sai-Dithvika/OSH-FRONTEND.git
+[submodule "OSH-App-server"]
+	path = OSH-App-server
+	url = https://github.com/Kaarthik-07/OSH-App-server.git
+[submodule "foss-2025-cr-server"]
+	path = foss-2025-cr-server
+	url = https://github.com/MohammedNayeemE/foss-2025-cr-server
