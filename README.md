@@ -10,8 +10,14 @@
 Our Open Source Hub is an inclusive platform designed to support developers, enthusiasts, and contributors in sharing, discovering, and collaborating on open-source projects. Focused on fostering innovation and learning, the hub enables users to showcase their projects, connect with like-minded individuals, and engage in meaningful discussions to address real-world challenges.
 
 1. [**Working**](#working)
-    - [**Collaboration**](#Collaboration)
-    - [**Architecture**](#Architecture)
+2. [**Collaboration**](#collaboration)
+3. [**Architecture**](#working-architecture)
+   - [**Frontend**](#Frontend)
+   - [**Backend**](#Backend)
+4. [**Use Case**](#use-case)
+5. [**Tech Stack**](#technologies-used)
+6. [**Contribution**](#contribution)
+
 
 # Working
    Open source allows developers to freely access, modify, and share software code. Contributors collaborate on platforms like GitHub, submitting improvements for review. This model fosters transparency, rapid innovation, and community-driven development. By combining global expertise, open source projects evolve quickly, benefiting from shared knowledge and diverse perspectives.
