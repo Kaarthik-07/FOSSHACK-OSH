@@ -7,3 +7,6 @@
 [submodule "foss-2025-cr-server"]
 	path = foss-2025-cr-server
 	url = https://github.com/MohammedNayeemE/foss-2025-cr-server
+[submodule "foss_flask_backend"]
+	path = foss_flask_backend
+	url = https://github.com/pranavs6/foss_flask_backend.git
