@@ -108,4 +108,4 @@ We welcome contributions and feedback from the community to enhance our document
 
 - **Contributions**: We encourage developers to contribute code, documentation, and ideas to improve functionality and usability.
 # Liscense
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the [MIT LICENSE](https://github.com/Kaarthik-07/FOSSHACK-OSH/blob/main/LISCENCE.md)
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the [MIT LICENSE](https://github.com/Kaarthik-07/FOSSHACK-OSH/blob/main/LISCENCE)
