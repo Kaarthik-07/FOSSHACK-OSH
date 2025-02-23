@@ -18,6 +18,24 @@ Our Open Source Hub is an inclusive platform designed to support developers, ent
 5. [**Tech Stack**](#technologies-used)
 6. [**Contribution**](#contribution)
 
+# Problem Statement
+
+Many developers, particularly beginners, struggle with finding the right open-source projects to contribute to. Common issues include:
+Difficulty in discovering beginner-friendly projects
+Lack of proper guidance on how to contribute
+Unclear or missing contribution paths
+Unwelcoming or toxic community discussions
+These challenges discourage new contributors and make it harder for them to engage with the open-source ecosystem 
+
+# Approach
+To address these issues, OpenSource Hub acts as a curated platform that simplifies open-source contributions by:
+
+Curating beginner-friendly projects 
+– Listing projects that are welcoming to new contributors, categorized by difficulty, tech stack, and community support.
+Providing clear contribution guidelines 
+– Ensuring that each listed project includes well-documented steps on how to contribute, making it easier for beginners to get started.
+Fostering a toxicity-free environment 
+– Encouraging collaborative discussions, implementing moderation mechanisms, and providing a safe space for developers to ask questions and get feedback without fear of toxicity.
 
 # Working
    Open source allows developers to freely access, modify, and share software code. Contributors collaborate on platforms like GitHub, submitting improvements for review. This model fosters transparency, rapid innovation, and community-driven development. By combining global expertise, open source projects evolve quickly, benefiting from shared knowledge and diverse perspectives.
