@@ -16,7 +16,8 @@ Our Open Source Hub is an inclusive platform designed to support developers, ent
    - [**Backend**](#Backend)
 4. [**Use Case**](#use-case)
 5. [**Tech Stack**](#technologies-used)
-6. [**Contribution**](#contribution)
+6. [**Demo**](#Demo)
+7. [**Contribution**](#contribution)
 
 # Problem Statement
 
@@ -89,7 +90,15 @@ These use cases enhance interaction and engagement within the open-source ecosys
 
 10. **AWS S3 (Storage Bucket)**: A scalable object storage service from Amazon Web Services that allows users to store and retrieve large amounts of data, such as images, videos, and backups, with high durability.
 
-11. **UploadThing**: A file uploading service that simplifies handling file uploads in web applications, managing storage, and handling metadata, making it easy to integrate into cloud-based storage solutions like AWS S3.
+11. **UploadThing**: A file uploading service that simplifies handling file uploads in web applications, managing storage, and handling metadata, making it easy to integrate into cloud-based storage solutions like AWS S3. 
+
+
+# Demo
+
+
+https://github.com/user-attachments/assets/ba59c033-7516-41f3-a1f7-0c2dc4e426a7
+
+
 
 # Team
 
